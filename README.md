@@ -1,4 +1,4 @@
 # webhook-test
 Testing the webhook
 
-I am just testing the webhooks of git1
+I am just testing the webhooks of git2
